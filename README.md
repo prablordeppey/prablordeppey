@@ -13,7 +13,7 @@ Check out my [personal blog](https://prablordeppey.github.io), where I share my 
 - **Design:** Figma
 - **Data:** Python, pandas, polars, scikit-learn, SPSS, PowerBI
 - **Tools:** Git, Docker, CI/CD, Helm, Kubernetes
-- **Typesetting:** LaTeX
+- **Typesetting:** \( \LaTeX \)
 
 ## 📈 GitHub at a Glance
 
