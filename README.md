@@ -22,6 +22,12 @@ Check out my [personal blog](https://prablordeppey.github.io), where I share my 
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=prablordeppey&count_private=true&include_all_commits=true" />
 </div>
 
+![Contributions](https://img.shields.io/badge/dynamic/json?color=green&label=Contributions&query=contributions&url=https://api.github.com/users/prablordeppey)
+![Commits](https://img.shields.io/badge/dynamic/json?color=blue&label=Commits&query=commits&url=https://api.github.com/users/prablordeppey)
+![Repositories](https://img.shields.io/badge/dynamic/json?color=red&label=Repositories&query=public_repos&url=https://api.github.com/users/prablordeppey)
+![Stars](https://img.shields.io/badge/dynamic/json?color=yellow&label=Stars&query=starred&url=https://api.github.com/users/prablordeppey)
+![Forks](https://img.shields.io/badge/dynamic/json?color=orange&label=Forks&query=forks&url=https://api.github.com/users/prablordeppey)
+
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/prosper-ablordeppey-67665aa5/)
