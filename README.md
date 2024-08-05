@@ -18,10 +18,6 @@ Check out my [personal blog](https://prablordeppey.github.io), where I share my 
 ## 📈 GitHub at a Glance
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=prablordeppey&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-</div>
-
-<div>
     <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=prablordeppey&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prablordeppey&theme=radical" />
 </div>
@@ -29,7 +25,7 @@ Check out my [personal blog](https://prablordeppey.github.io), where I share my 
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/prosper-ablordeppey-67665aa5/))
+- [LinkedIn](https://www.linkedin.com/in/prosper-ablordeppey-67665aa5/)
 - [Twitter](https://twitter.com/prablordeppey)
 - [Personal Blog](https://prablordeppey.github.io)
 
