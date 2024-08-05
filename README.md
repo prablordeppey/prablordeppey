@@ -18,13 +18,14 @@ Check out my [personal blog](https://prablordeppey.github.io), where I share my 
 ## 📈 GitHub at a Glance
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=prablordeppey&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prablordeppey&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prablordeppey&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
 </div>
 
 <div>
-  <img height="170" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=prablordeppey&theme=radical" />
+    <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=prablordeppey&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prablordeppey&theme=radical" />
 </div>
+
 
 ## 🌐 Connect with Me
 
