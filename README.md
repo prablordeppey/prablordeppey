@@ -13,9 +13,9 @@ Check out my [personal blog](https://prablordeppey.github.io), where I share my 
 - **Mobile:** Flutter, Angular ionic, Kivy
 - **Desktop:** .Net, Kivy
 - **Design:** Figma, BStudio
-- **Data:** Python, Pandas, Polars, Scikit-learn, Tensorflow, Keras
+- **Data:** Python, Pandas, Polars, Scikit-learn, Tensorflow, Keras, MLFlow
 - **API:** FastApi, Web2Py, Django, Express
-- **CICD:** Git, Docker, CI/CD, Helm, Kubernetes
+- **CICD:** Git, Jenkins, Github Actions, Docker, Kubernetes, Helm
 - **Tools:** SPSS, PowerBI
 - **Typesetting:** $\LaTeX 2e$
 
