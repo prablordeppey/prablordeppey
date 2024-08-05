@@ -8,11 +8,15 @@ Check out my [personal blog](https://prablordeppey.github.io), where I share my 
 
 ## 🔧 Tech Toolbox
 
+- **Languages:** VB, C#, TS, Python, R, Dart
 - **Web:** HTML, CSS, JavaScript, React, Angular Ionic
-- **Mobile:** Flutter, React Native, Angular ionic
-- **Design:** Figma
-- **Data:** Python, pandas, polars, scikit-learn, SPSS, PowerBI
-- **Tools:** Git, Docker, CI/CD, Helm, Kubernetes
+- **Mobile:** Flutter, Angular ionic, Kivy
+- **Desktop:** .Net, Kivy
+- **Design:** Figma, BStudio
+- **Data:** Python, Pandas, Polars, Scikit-learn, Tensorflow, Keras
+- **API:** FastApi, Web2Py, Django, Express
+- **CICD:** Git, Docker, CI/CD, Helm, Kubernetes
+- **Tools:** SPSS, PowerBI
 - **Typesetting:** $\LaTeX 2e$
 
 ## 📈 GitHub at a Glance
