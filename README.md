@@ -24,8 +24,8 @@ Check out my [personal blog](https://prablordeppey.github.io), where I share my 
 
 ## 🌐 Connect with Me
 
-    - [LinkedIn](https://www.linkedin.com/in/prosper-ablordeppey-67665aa5/)
-    - [Twitter](https://twitter.com/prablordeppey)
-    - [Personal Blog](https://prablordeppey.github.io)
+- [LinkedIn](https://www.linkedin.com/in/prosper-ablordeppey-67665aa5/)
+- [Twitter](https://twitter.com/prablordeppey)
+- [Personal Blog](https://prablordeppey.github.io)
 
 Remember, open source is a community effort. The projects I share here are tools I've built to make my life better. Let's continue to collaborate and grow together. 💜
